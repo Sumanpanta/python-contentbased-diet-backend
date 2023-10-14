@@ -1,0 +1,26 @@
+﻿disease,good,restricted
+Alzheimer's,['garlic (lehsun)'],"['jaggery (gur)', 'whole wheat flour (gehun ka atta)']"
+Anaemia,['ragi (nachni / red millet) flour'],[]
+Arthritis,[],['whole wheat flour (gehun ka atta)']
+Blood Pressure,"['bajra (black millet) flour', 'water chestnut (shingoda) flour', 'pistachios']",[]
+Blood Sugar,['pistachios'],[]
+Cancer,"['water chestnut (shingoda) flour', 'red pumpkin (bhopla / kaddu) (kaddu) cubes', 'beetroot']",[]
+Cardiac Deseases,"['roasted and coarsely crushed peanuts', 'raw peanuts', 'buckwheat (kuttu or kutti no daro)', 'rice flour (chawal ka atta)']",[]
+Cardiovascular Deseases,['full-fat milk'],[]
+Cholestrol/High Cholestrol,"['rajgira flour', 'buckwheat (kuttu or kutti no daro)', 'ragi (nachni / red millet) flour']",[]
+Common Cold,['curd (dahi)'],[]
+Constipation,['pistachios'],[]
+Cough,['curd (dahi)'],[]
+Dementia,['garlic (lehsun)'],['jaggery (gur)']
+Diabetes,"['bayleaf (tejpatta)', 'sour curd (khatta dahi)', 'curry leaves (kadi patta)', 'Diabetes', 'cashew nuts (kaju)', 'broccoli']","['sugar', 'potatoes', 'cooked rice', 'mawa (khoya)', 'butter', 'long grained rice (basmati rice)', 'banana', 'ladi pav', 'bread', 'plain flour (maida)']"
+Diarrhea,"['toovar dal', 'curry leaves (kadi patta)']",['musturd seed (rai/ sarson)']
+Heart Attack,"['bayleaf (tejpatta)', 'water chestnut (shingoda) flour', 'red pumpkin (bhopla / kaddu) (kaddu) cubes']",['butter']
+High Blood Pressure,['garlic (lehsun)'],['jaggery (gur)']
+High Cholestrol,"['toovar dal', 'bajra (black millet) flour', ' buckwheat (kuttu or kutti no daro)', 'ragi (nachni / red millet) flour']","['ladi pav', 'bread', 'plain flour (maida)']"
+Inflammation,"['rajgira flour', 'urad dal (split black lentils)']",[]
+kidney Failure,[],['pistachios']
+Kidney Stone,['baking soda'],"['cashew nuts (kaju)', 'tomatoes']"
+Migraines,['bayleaf (tejpatta)'],[]
+Ostioarthritis,['broccoli'],[]
+Rickets,"['cashew nuts (kaju)', 'ragi (nachni / red millet) flour']",[]
+Throat Infection,[],['musturd seed (rai/ sarson)']
